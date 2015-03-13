@@ -50,3 +50,11 @@ src/
 
 ### Vide
 -   https://github.com/VodkaBears/Vide.git
+
+### alertify.js
+-   http://fabien-d.github.io/alertify.js/
+
+
+
+
+- Also check this out: http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/
