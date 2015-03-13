@@ -8,32 +8,45 @@ src/
     - css/
 ```
 
-## jQuery 1.9.1
+### jQuery 1.9.1
 
-## wow.js WOW - v0.1.6
+### wow.js WOW - v0.1.6
 -   http://mynameismatthieu.com/WOW/index.html
 
-## Animate.css
+### Animate.css
 -   http://daneden.github.io/animate.css/
 
-## jQuery Background video
+### jQuery Background video
 
-## Retina.js v1.1.0
+### Retina.js v1.1.0
+-   http://imulus.github.io/retinajs/
 
-## jQuery One Page Nav Plugin version 2.2
+### jQuery One Page Nav Plugin version 2.2
 -   http://github.com/davist11/jQuery-One-Page-Nav
 
-## FitVids 1.1
+### FitVids 1.1
 -   http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/
 
-## Nivo Lightbox v1.0
+### Nivo Lightbox v1.0
 -   http://dev7studios.com/nivo-lightbox
 
-## D3js
+### D3js
 -   http://d3js.org/
 
-## Acejs
+### Acejs
 -   https://treeline.io/ace/ace.js
 
-## Elegant Themes
+### Elegant Themes
 -   http://www.elegantthemes.com/blog/resources/elegant-icon-font
+
+### Responsive Web Design
+-   http://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+
+### jQuery Easing v1.3
+-   http://gsgd.co.uk/sandbox/jquery/easing/
+
+### Modernizr 2.8.3
+-   http://modernizr.com/download/
+
+### Vide
+-   https://github.com/VodkaBears/Vide.git
