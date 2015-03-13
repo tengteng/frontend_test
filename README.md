@@ -28,3 +28,12 @@ src/
 
 ## Nivo Lightbox v1.0
 -   http://dev7studios.com/nivo-lightbox
+
+## D3js
+-   http://d3js.org/
+
+## Acejs
+-   https://treeline.io/ace/ace.js
+
+## Elegant Themes
+-   http://www.elegantthemes.com/blog/resources/elegant-icon-font
